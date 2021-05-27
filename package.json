@@ -1,0 +1,20 @@
+{
+  "name": "custom-theme-light",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.16",
+    "btoa": "^1.2.1",
+    "graphql": "^15.5.0",
+    "next": "10.2.0",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.2",
+    "react-apollo": "^3.1.5",
+    "react-dom": "17.0.2"
+  }
+}
